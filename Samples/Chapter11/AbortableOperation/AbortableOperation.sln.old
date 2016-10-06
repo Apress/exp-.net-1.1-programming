@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbortableOperation", "AbortableOperation.csproj", "{A851F364-BAC3-4E0E-A5EB-EBA993941411}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{A851F364-BAC3-4E0E-A5EB-EBA993941411}.Debug.ActiveCfg = Debug|.NET
+		{A851F364-BAC3-4E0E-A5EB-EBA993941411}.Debug.Build.0 = Debug|.NET
+		{A851F364-BAC3-4E0E-A5EB-EBA993941411}.Release.ActiveCfg = Release|.NET
+		{A851F364-BAC3-4E0E-A5EB-EBA993941411}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

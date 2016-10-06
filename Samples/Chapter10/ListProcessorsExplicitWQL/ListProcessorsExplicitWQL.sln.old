@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListProcessorsExplicitWQL", "ListProcessorsExplicitWQL.csproj", "{ED93F71C-9445-45B8-A819-9C6FAE3F0AC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{ED93F71C-9445-45B8-A819-9C6FAE3F0AC3}.Debug.ActiveCfg = Debug|.NET
+		{ED93F71C-9445-45B8-A819-9C6FAE3F0AC3}.Debug.Build.0 = Debug|.NET
+		{ED93F71C-9445-45B8-A819-9C6FAE3F0AC3}.Release.ActiveCfg = Release|.NET
+		{ED93F71C-9445-45B8-A819-9C6FAE3F0AC3}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

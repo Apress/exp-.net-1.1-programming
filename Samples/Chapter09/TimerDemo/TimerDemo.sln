@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerDemo", "TimerDemo.csproj", "{55177D29-26B4-4189-9F83-FB8823561923}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{55177D29-26B4-4189-9F83-FB8823561923}.Debug.ActiveCfg = Debug|.NET
+		{55177D29-26B4-4189-9F83-FB8823561923}.Debug.Build.0 = Debug|.NET
+		{55177D29-26B4-4189-9F83-FB8823561923}.Release.ActiveCfg = Release|.NET
+		{55177D29-26B4-4189-9F83-FB8823561923}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

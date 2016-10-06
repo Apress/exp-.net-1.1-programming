@@ -1,0 +1,3 @@
+Greeting = Hallo, Welt!
+ButtonCaption = Flagge zeigen
+DialogCaption = Flagge:

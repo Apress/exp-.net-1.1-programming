@@ -1,0 +1,2 @@
+Greeting = Hi, World!
+ButtonCaption = See Your Flag

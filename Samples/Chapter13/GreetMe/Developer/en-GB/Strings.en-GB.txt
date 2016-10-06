@@ -1,0 +1,3 @@
+Greeting = Ariite Wurld!
+ButtonCaption = See yer flag
+DialogCaption = Flag:

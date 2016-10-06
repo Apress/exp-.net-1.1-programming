@@ -1,0 +1,4 @@
+<IPermission class="Apress.Expert.WMDDetector.WMDDetectorPermission, WMDDetectorPermission, Version=1.0.1.0, Culture=neutral, PublicKeyToken=22a8cada780967db"
+             description="Apress WMD detector"
+             version="1.*"
+             Unrestricted="Read"/>

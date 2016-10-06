@@ -1,0 +1,42 @@
+.assembly extern mscorlib {}
+.assembly extern Clock
+{
+	.ver 4:0:1:0
+}
+
+.assembly TestClock 
+{
+	.ver 4:0:1:0
+}
+
+.module TestClock.exe
+
+ 
+.namespace Apress.ExpertDotNet.ClockSample
+{	
+	.class EntryPoint extends [mscorlib]System.Object
+	{
+
+		.method static void
+		Main() cil managed
+		{
+			.maxstack 2
+			.locals init (valuetype [Clock]Apress.ExpertDotNet.ClockSample.Clock clock) 
+			.entrypoint
+
+			// initialize
+			ldloca.s	clock
+			ldc.i4	6
+			call instance void [Clock]Apress.ExpertDotNet.ClockSample.Clock::.ctor(unsigned int8)
+
+			ldstr "Hours are "
+			call void [mscorlib]System.Console::Write(string)
+			ldloca.s	clock
+			call instance unsigned int8 [Clock]Apress.ExpertDotNet.ClockSample.Clock::get_Hours()
+			call void [mscorlib]System.Console::WriteLine(int32)
+
+			ret
+		}
+
+	}
+}

@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisposeUnmanagedResource", "DisposeUnmanagedResource.csproj", "{312ECCF8-360E-4753-BAED-E612EC181EBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{312ECCF8-360E-4753-BAED-E612EC181EBC}.Debug.ActiveCfg = Debug|.NET
+		{312ECCF8-360E-4753-BAED-E612EC181EBC}.Debug.Build.0 = Debug|.NET
+		{312ECCF8-360E-4753-BAED-E612EC181EBC}.Release.ActiveCfg = Release|.NET
+		{312ECCF8-360E-4753-BAED-E612EC181EBC}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

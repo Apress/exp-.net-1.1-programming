@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseResources", "UseResources.csproj", "{CFAD7E1A-84F1-4245-A604-1CAB777ABB5C}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{CFAD7E1A-84F1-4245-A604-1CAB777ABB5C}.Debug.ActiveCfg = Debug|.NET
+		{CFAD7E1A-84F1-4245-A604-1CAB777ABB5C}.Debug.Build.0 = Debug|.NET
+		{CFAD7E1A-84F1-4245-A604-1CAB777ABB5C}.Release.ActiveCfg = Release|.NET
+		{CFAD7E1A-84F1-4245-A604-1CAB777ABB5C}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
